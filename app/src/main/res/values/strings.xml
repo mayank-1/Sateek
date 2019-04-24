@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sateek News</string>
+    <string name="appbar_scrolling_view_behavior">true</string>
+</resources>
